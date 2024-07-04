@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Welcome to the BatteryMC organization.
+Welcome to the Battery organization.
 
 ## About
 
-BatteryMC is a minecraft project with many different servers
+Battery is a minecraft project with many different servers
